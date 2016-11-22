@@ -480,7 +480,7 @@
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Source Sans Pro", "sans-serif";
+		font-family: FontAwesome;
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
