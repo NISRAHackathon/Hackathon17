@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 @import url("font-awesome.min.css");
 
 /*
@@ -15,7 +15,7 @@
 		border: 0;
 		font-size: 100%;
 		font: inherit;
-        font-family: FontAwesome;
+        font-family: 'Ubuntu', sans-serif;
 		vertical-align: baseline;
 	}
 
@@ -415,7 +415,7 @@
 			transform-origin: 50% 50%;
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwsome;
+			font-family: 'Ubuntu', sans-serif;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -481,7 +481,7 @@
 /* Type */
 
 	body, input, textarea, select {
-		font-family: FontAwesome;
+		font-family: 'Ubuntu', sans-serif;
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
@@ -531,7 +531,7 @@
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 80;
+		font-weight: 50;
 		color: inherit;
 		letter-spacing: -0.0320em;
 	}
@@ -542,7 +542,7 @@
 		}
 
 	h2 {
-		font-size: 2.25em;
+		font-size: 1.5em;
 		line-height: 1.25em;
 		letter-spacing: 0em;
 	}
@@ -1810,7 +1810,7 @@
 		}
 
 			.main.style1 h2 {
-				font-size: 4.25em;
+				font-size: 3.5em;
 				line-height: 1em;
 			}
 
