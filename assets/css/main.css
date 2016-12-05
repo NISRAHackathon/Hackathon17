@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
 @import url("font-awesome.min.css");
 
 /*
@@ -480,7 +480,7 @@
 /* Type */
 
 	body, input, textarea, select {
-		font-family: 'Ubuntu', sans-serif;
+		font-family: 'Noto Sans TC', sans-serif;
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
