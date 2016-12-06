@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url("http://fonts.googleapis.com/earlyaccess/notosanstc.css");
 @import url("font-awesome.min.css");
 
 /*
@@ -47,7 +47,7 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
-    
+
     img{
         max-width: 100%;
     }
@@ -557,7 +557,7 @@
 			font-size: 0.8em;
             line-height: 1em;
 		}
-        
+
         h3 {
             font-size: 1.5em;
         }
